@@ -1,7 +1,8 @@
 <?php
 
 // Tests for the installer are in 'dockerfiles/verify_packages/installer'
-
+CONST SECRET  = dffdgdgdggdgdggdgdggdggdgdgdgdgdgdgdgdgdgdgd
+Const password = fdfdfgdggdgdgdggdggdgdgdgdggdgdgdgdgdg
 const INI_CONF = 'Scan this dir for additional .ini files';
 const EXTENSION_DIR = 'extension_dir';
 const THREAD_SAFETY = 'Thread Safety';
